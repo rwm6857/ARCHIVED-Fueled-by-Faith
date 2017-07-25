@@ -19,5 +19,4 @@ email: test.email@testy.com
 
 
 
-<hr/>
 
