@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Hank Quinlan's Blog</title>
+	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://hankquinlan.github.io/blog"/>
+	<updated>2017-07-25T00:49:50-04:00</updated>
+	<id>http://hankquinlan.github.io/blog</id>
+	<author>
+		<name>Hank Quinlan</name>
+		<email>hankquinlanhub@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>My Life Verse for 2017</title>
+			<link href="http://hankquinlan.github.io/blog/2017/07/24/2017-Life-Verse"/>
+			<updated>2017-07-24T00:00:00-04:00</updated>
+			<id>http://hankquinlan.github.io/blog/2017/07/24/2017-Life-Verse</id>
+			<content type="html">&lt;h2&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;“Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.”&lt;/em&gt;&lt;/p&gt; 
+	&lt;blockquote&gt;&lt;p&gt;Proverbs‬ ‭3:5–6‬ ‭ESV‬‬&lt;/p&gt;
+	&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/h2&gt;
+
+&lt;p&gt;Trust in the Lord your God with all your heart. Sometimes it’s hard to trust our own decisions with our entire heart, let alone give it up to something we can’t see. Faith plays an intricate role in decision-making. Here’s the problem:&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;We think we can do &lt;em&gt;it&lt;/em&gt; alone.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;What is &lt;em&gt;it&lt;/em&gt;? Our &lt;em&gt;it&lt;/em&gt; is whatever decision, plan, choice, et cetera we think we have total control over, almost as if we know exactly how our life will pan out after said decision. Here’s the catch  —  we don’t.&lt;/p&gt;
+
+&lt;p&gt;Proverbs 3:5–6 has become my “life-verse” for 2017 after the giant message that is deciding on a college. I had two options: College A was second in the nation for my major, I was accepted in October, visited at least 4 times, and guaranteed me a career in and after my time there. I visited College B on a school band trip to a music clinic for my first time, I knew little about, and it was already May and I was changing my mind. Did I mention that College B was a private Christian school? See, I felt a calling  —  a Christ-powered conviction  —  to at least apply to College B. Being so late I figured it’d be a sluggish, bothersome, and overall fruitless process, though, I was still excited.&lt;/p&gt;
+
+&lt;p&gt;I’ll get back to the college thing in a second, but I wanted to throw in the whole Proverbs 3:5–6 life-verse part into the story. In my local Youth Group, we were working through Scripture on trusting God with everything (starting to tie in?) and during the aforementioned band trip, we saw Jonah at the renowned Sight &amp;amp; Sound Theater, a pretty impressive show if you ask me. Well, it was before this show that I was meandering through the gift shop  —  not planning to buy, just killing time before the show  —  and I see a granite cross decoration with Proverbs 3:5–6 inscribed on it. Now to me, this was an instant moment of “sacred echoes”  —  the thing that seems like God’s version of deja vu. Well, I ended up skipping out on that little piece, though I’d been looking for a piece to fill a gap on my desk, something that I could use as a focus when things got rough. Long story short, I got it on Amazon for half the cost because gift shops are overpriced. It was very odd, truly, that this verse  —  trust God with everything, don’t trust yourself, seek Him, and He’ll show you what to do  —  happened to come up, be brought to my attention, and resonated with my soul so perfectly in the moment I was struggling with this conviction over college. All because of a marching band trip and cheap, Chinese-made decor happening to cross paths at the perfect time.&lt;/p&gt;
+
+&lt;p&gt;So, I ended up applying for College B, had my fee waived, the rolling deadline allowed me an easy process, and they had my major. Something seemed a bit perfect here. This got me excited, and when I get excited I like to share it with people. Therefore, I confided this change of heart with my best friend who, in fact, was struggling with college decisions themselves. You see, they were just chasing after the status quo and standards set for them by others. My excitement got them excited. From my excited state transferring to them, they ended up branching out  —  applying to multiple Christian universities for majors in ministry that their original community college just didn’t offer. I eventually found that College B wasn’t feasible for me, and went back to College A where I found a calling in spiritual life there.&lt;/p&gt;
+
+&lt;p&gt;So what’s the point to this convoluted and anticlimactic story? Without me trusting solely in God, someone else might have missed out on their calling. By serving God, I was serving a sister-in-Christ. You see, God doesn’t just call the equipped to do His work here on Earth, rather, He equips the called to fulfill His divine purpose. Both of us are set for paths of success in ways that we never expected. I’m sure you’ve heard the common saying, “Well gee, God sure does work in mysterious ways.” God can work in anyone, anyway as long as we put our full trust in Him and His will.&lt;/p&gt;
+
+&lt;p&gt;Don’t miss out when you feel God’s conviction, He doesn’t need you to do your &lt;em&gt;it&lt;/em&gt;, as He can most certainly find someone else from 7 billion people in His own image. As Jesus asked Peter to step out from the boat onto the water (Matthew 14:29) in an act of faith, we need to trust that Christ will care for us enough to make our paths straight.&lt;/p&gt;
+
+&lt;p&gt;Are there any convictions you’re wrestling with lately? Is God calling you towards something and you just need to step from your boat? Jesus is holding out His hand.&lt;/p&gt;
+
+</content>
+		</entry>
+	
+		<entry>
+			<title>Hank Quinlan, Horrible Cop, Launches Site</title>
+			<link href="http://hankquinlan.github.io/blog/2014/04/30/hank-quinlan-site-launched"/>
+			<updated>2014-04-30T00:00:00-04:00</updated>
+			<id>http://hankquinlan.github.io/blog/2014/04/30/hank-quinlan-site-launched</id>
+			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>
