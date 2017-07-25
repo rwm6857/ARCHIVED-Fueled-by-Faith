@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Test Post"
 author: Test Author
 date: 2017-01-01
