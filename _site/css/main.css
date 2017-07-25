@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -18,15 +18,18 @@ a {
 }
 a:hover {
     text-decoration: underline;
+	color: #FFBE0D;
+
+
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
 	line-height: 0.3em;
 }
 h2 {
     font-size: 1.7em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
 	line-height: 1.2em;
 }
 p {
@@ -53,3 +56,12 @@ q {
 	line-height: 1.5em;
 	color: #333;
 }
+
+hr {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1px;
+	color: #FFBE0D;
+	background-color: #FFBE0D;
+	border: 0 none;
