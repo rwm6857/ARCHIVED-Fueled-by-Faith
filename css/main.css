@@ -22,6 +22,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	line-height: 0.3em;
+}
+h2 {
+    font-size: 1.7em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	line-height: 0.5em;
 }
 p {
     font-size: 1.5em;
@@ -40,4 +46,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+q {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	color: #333;
 }
