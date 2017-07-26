@@ -99,4 +99,10 @@ label {
 	text-shadow: #747474 4px 4px 4px;
 }
 
-
+#box {
+-webkit-box-shadow: 4px 4px 4px 4px #B8B8B8; 
+box-shadow: 4px 4px 4px 4px #B8B8B8;
+margin: 0 auto;
+padding: 7px;
+width:300px;
+}
