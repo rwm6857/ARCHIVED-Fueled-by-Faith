@@ -5,7 +5,8 @@
 			<title></title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link href="https://fonts.googleapis.com/css?family=Playball|Raleway|Roboto+Condensed" rel="stylesheet">   
+			<link href="https://fonts.googleapis.com/css?family=Playball|Raleway|Roboto+Condensed" rel="stylesheet"> 
+			
 		</head>
 		<body>
 			<nav>
@@ -18,6 +19,7 @@
 					
 	    		</ul>
 			</nav>
+			
 			<div class="container">
 			
 			<h1></h1>
@@ -31,7 +33,7 @@
 	<title>Faith Fueled Blogs</title>
 	<link href="http://mooer112233.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://mooer112233.github.io/blog"/>
-	<updated>2017-07-25T21:31:13-04:00</updated>
+	<updated>2017-07-25T21:40:13-04:00</updated>
 	<id>http://mooer112233.github.io/blog</id>
 	<author>
 		<name></name>
