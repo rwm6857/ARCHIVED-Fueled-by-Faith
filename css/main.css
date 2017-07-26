@@ -45,7 +45,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .95em;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 200;
 }
@@ -75,15 +75,28 @@ hr {
 	border: 0 none;
 }
 
-#maintitle {
+input {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+	color: #FFFF;
+}
+
+input:hover {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+	color: #FFFF;
+	background-color: #FFBE0D;
+}
+
+label {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+	color: #FFFF;
+}
+
+	#maintitle {
 	color: #FFFF;
 	text-shadow: #747474 4px 4px 4px;
 }
 
 
-logo {
-	background-image: url(http://i.imgur.com/eM0YdzG.png);
-	background-repeat: no-repeat;
-	background-position: right top;
-	background-attachment: scroll;
-	display: block
