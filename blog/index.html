@@ -7,7 +7,17 @@ title: Faith Fueled Blogs
 	<h2 style="text-align: center;"><em>Blog Posts</em></h2>
 	<ul class="posts">
 
-	  {% for post in site.posts %}
+		 {% for post in site.posts %}
+	    <li><font size="6"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></font>
+		    <i><font size="1">{{ post.excerpt }}</font></i>
+		    <font size="2" color="grey"><!--<span>-->{{ post.date | date_to_string }}<!--</span>--></font>
+		    <hr>
+		</li>
+	  {% endfor %}
+</ul>
+	<!-- FOR BACKUP
+{% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+-->
