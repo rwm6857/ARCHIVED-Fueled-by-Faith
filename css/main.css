@@ -75,13 +75,13 @@ hr {
 	border: 0 none;
 }
 
-input {
+button {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 1em;
 	color: #FFFF;
 }
 
-input:hover {
+button:hover {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 1em;
 	color: #FFFF;
