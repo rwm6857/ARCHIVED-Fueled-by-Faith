@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
+    font-family: 'Roboto Condensed', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -15,24 +15,30 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 200;
 }
 a:hover {
     text-decoration: underline;
 	color: #FFBE0D;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 200;
 
 
 }
 h1 {
-    font-size: 3em;
-    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
+    font-size: 4em;
+    font-family: 'Playball', cursive;
 	line-height: 0.3em;
 }
 h2 {
-    font-size: 1.7em;
-    font-family:'Palatino Linotype', 'Book Antiqua', 'Palatino serif';
+	font-size: 1.7em;
+    font-family: 'Raleway', sans-serif;
 	line-height: 1.2em;
+	font-weight: 650
 }
 p {
+	font-family: 'Raleway', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -40,6 +46,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 200;
 }
 
 ul.posts { 
@@ -65,3 +73,9 @@ hr {
 	color: #FFBE0D;
 	background-color: #FFBE0D;
 	border: 0 none;
+}
+
+#maintitle {
+	color: #FFFF;
+	text-shadow: #747474 4px 4px 4px;
+}
