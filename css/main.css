@@ -79,5 +79,11 @@ hr {
 	color: #FFFF;
 	text-shadow: #747474 4px 4px 4px;
 }
-#logo {
-	background-image: 
+
+
+logo {
+	background-image: url(http://i.imgur.com/eM0YdzG.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: scroll;
+	display: block

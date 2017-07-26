@@ -9,8 +9,9 @@ title: Fueled by Faith Blogs
 
 		 {% for post in site.posts %}
 	    <li><font size="6"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></font>
-		    <i><font size="1">{{ post.excerpt }}</font></i>
-		    <font size="2" color="grey"><!--<span>-->{{ post.date | date_to_string }}<!--</span>--></font>
+		    <p style="line-height: 0px"><font size="3"><!--<span>-->{{ post.date | date_to_string }}<!--</span>--><font></p>
+			<i><font size="1">{{ post.excerpt }}</font></i>
+		    
 		    <hr>
 		</li>
 	  {% endfor %}
