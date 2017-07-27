@@ -106,3 +106,36 @@ margin: 0 auto;
 padding: 7px;
 width:300px;
 }
+
+
+#ourmanna-verse {
+    padding: 5px;
+    margin: 10px;
+
+    background: #d6d6d6;
+    border-color: #d6d6d6;
+
+    -webkit-border-radius: 5px;
+	-webkit-box-shadow: 4px 4px 4px 4px #B8B8B8;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#mannaverse {
+	font-family: 'Raleway', sans-serif;
+   font-size: 15px;
+    font-weight: 650;
+    margin-bottom: 10px;
+}
+
+#mannaverse-reference:before {
+    content: "- ";
+}
+#mannaverse-reference {
+    text-align: center;
+    font-size: 13px;
+}
+
+#mannaverse-version {
+    color: #FFFF;
+}
