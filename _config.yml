@@ -1,3 +1,4 @@
 name: Ryan Moore, Fueled by Faith
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+encoding: UTF-8
