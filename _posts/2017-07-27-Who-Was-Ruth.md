@@ -1,12 +1,11 @@
 ---
+title: Who was Ruth?
+date: 2017-07-27 00:00:00 Z
 layout: post
 comments: true
-title: "Who was Ruth?"
 author: Corra Morgan
-date: 2017-07-27
 email: corralynn6@gmail.com
 ---
-
 
 <h2><blockquote><em>Ruth was an Old Testament woman who was tested and always remained loyal and in the end she was greatly rewarded for it.</em></blockquote></h2>
 

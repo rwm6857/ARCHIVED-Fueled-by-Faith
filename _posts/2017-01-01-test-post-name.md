@@ -1,9 +1,9 @@
 ---
+title: Test Post
+date: 2017-01-01 00:00:00 Z
 layout: post
 comments: true
-title: "Test Post"
 author: Test Author
-date: 2017-01-01
 email: test.email@testy.com
 ---
 
