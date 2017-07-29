@@ -1,6 +1,7 @@
 ---
 title: Generation Jesus
 date: 2017-07-29 03:46:00 Z
+author: Ryan Moore
 layout: post
 ---
 
