@@ -8,6 +8,7 @@ layout: post
 > ## "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own"
 >
 > > *-1 Corinthians 6:19 ESV*
+
 So if God created us in *His* image for *His* perfect plan, then do we really own our bodies? Paul tells us in 1 Corinthians 6:19, "you are not your own." That seems like a rather explicit and straightforward answer. One mistruth that's been circulated since ancient Greek philosophers is the idea that "my body is worldy/evil; I can divorce it from my spirituality. It doesn't matter if I mess it up." However, the Bible tells us the complete opposite. As aforementioned, our body is a **Temple of God**, and Paul tells us "If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple."(1 Cor 3:17) So what does the Bible say about negative habits we give into with our bodies?
 
 ## Speech
