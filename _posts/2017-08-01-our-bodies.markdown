@@ -18,7 +18,7 @@ Vulgarity, gossip, negativity, and hate are a few examples "filthiness" and "foo
 >> -Matthew 15:11
 
 ## What We Put In
-This has a lot to do with drugs, alcohol, and food. Of course, the world has two very different perspectives on these topics: put in whatever you want or put in none of it. God's Word supports the latter. On the subject of food, God blesses us with the ability to enjoy food. However, if food consumes our mind or distracts us from God, we need to reconsider our priorities. Proverbs 20:1, Romans 12:2, and Proverbs 23:2 give insight to God's opinion on what we put into our bodies.
+This has a lot to do with drugs, alcohol, and food. Of course, the world has two very different perspectives on these topics: put in whatever you want or put in none of it. God's Word supports the latter. On the subject of food, God blesses us with the ability to enjoy food. However, if food consumes our mind or distracts us from God, we need to reconsider our priorities. Proverbs 20:1, 1 Corinthians 10:31, Romans 12:2, and Proverbs 23:2 give insight to God's opinion on what we put into our bodies.
 
 > *"Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."*
 >>1 Peter 5:8
