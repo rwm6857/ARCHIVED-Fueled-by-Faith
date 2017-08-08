@@ -25,9 +25,9 @@ layout: post
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In these to verses, Paul is summarizing the guidelines that Christ has set before us to the perfect attitude:
 
-1. Selflessness
-2. Humility
-3. Service
+### 1. Selflessness
+### 2. Humility
+### 3. Service
 
 ## Selflessness
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jesus did nothing with a sense of self-ambition. Everything He did, every step He took, every person He engaged had purpose twofold: to help others and bring glory to God. Jesus' famous words "Father forgive them, they know not what they do" (Luke 23:34) demonstrate this idea of selflessness. As these soldiers torture and ultimately kill Jesus, He continues to ask his Father to forgive them. Talk about caring for others! 
