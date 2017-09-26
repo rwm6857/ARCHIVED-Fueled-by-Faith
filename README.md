@@ -6,7 +6,8 @@ Welcome to Fueled by Faith, a personal project and blog by Ryan W. Moore. Fueled
 2. Add MORE TESTIMONIES
 3. Get better social sharing links
 4. Comments
-⋅⋅* Is Disqus any good?
-⋅⋅* Need replacement
+  * Is Disqus any good?
+  * Need replacement
 5. Better emailing lists?
 
+Check out the [site](http://fueledbyfaith.org "FbF")
