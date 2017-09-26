@@ -9,5 +9,6 @@ Welcome to Fueled by Faith, a personal project and blog by Ryan W. Moore. Fueled
   * Is Disqus any good?
   * Need replacement
 5. Better emailing lists?
+6. MAKE MOBILE FRIENDLY
 
 Check out the [site](http://fueledbyfaith.org "FbF")
